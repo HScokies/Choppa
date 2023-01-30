@@ -1,0 +1,3078 @@
+[
+    {
+        "Floor": 1,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "София Климов",
+            "Руслан Воронин",
+            "Мирослав Мельников",
+            "Ольга Егоров",
+            "Иван Кузнецов",
+            "Василиса Петров",
+            "Платон Романов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Вячеслав Беляев",
+            "Варвара Воронин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Виктор Федоров",
+            "Роман Исаев",
+            "Эмилия Марков",
+            "Давид Беляев",
+            "Ольга Романов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александра Казаков",
+            "Лука Филиппов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Вероника Филатов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Анжелика Степанов",
+            "Даниил Никитин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Фёдор Афанасьев",
+            "София Алексеев",
+            "Мирон Павлов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Сергей Ковалёв",
+            "Лев Мельников",
+            "Никита Козлов",
+            "Александр Егоров",
+            "Олеся Титов",
+            "Арсений Захаров",
+            "Павел Климов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Руслан Поляков",
+            "Илья Смирнов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Артём Марков",
+            "Тимофей Ильин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ярослава Попов",
+            "Асия Марков",
+            "Андрей Романов",
+            "Юрий Петров"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юлия Лазарев",
+            "Илья Прохоров",
+            "Никита Комаров"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Софья Сергеев",
+            "Дарья Морозов",
+            "Макар Никитин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Николай Маслов",
+            "Ярослав Киселёв",
+            "Олеся Мельников"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Александр Степанов",
+            "Лев Михайлов",
+            "Валерия Крылов",
+            "Матвей Куликов",
+            "Ева Кузнецов",
+            "Даниил Жуков"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Демьян Медведев",
+            "Игорь Фролов",
+            "Марк Быков",
+            "Милана Карпов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Давид Коновалов",
+            "Алина Беляев",
+            "Вера Герасимов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Лидия Коновалов",
+            "Ева Калинин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Алиса Яковлев",
+            "Ярослав Данилов",
+            "Маргарита Белов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ярослав Абрамов",
+            "Руслан Андреев",
+            "Руслан Андреев",
+            "Даниил Лебедев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктор Зайцев",
+            "Мариам Матвеев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Никита Михайлов",
+            "Злата Тихонов",
+            "Лея Козлов",
+            "Арсен Лебедев",
+            "София Киселёв",
+            "Кирилл Тихонов",
+            "Егор Назаров"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лев Виноградов",
+            "Олеся Назаров",
+            "София Волков"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Полина Марков"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Коновалов",
+            "Юлия Исаев",
+            "Фёдор Морозов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Артём Коновалов",
+            "Ника Мельников"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Григорий Воробьёв",
+            "Даниил Гаврилов",
+            "Пётр Тихонов",
+            "Глеб Родионов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Алия Николаев",
+            "Адам Тихонов",
+            "Адам Попов",
+            "Алия Савельев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Михаил Кузнецов",
+            "Пётр Белов",
+            "Асия Абрамов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Виктория Коновалов",
+            "Иван Климов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Валерия Соколов",
+            "Анастасия Савельев",
+            "Мирослав Романов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Леонид Пономарёв",
+            "Владимир Дмитриев",
+            "Василиса Семёнов",
+            "Глеб Кузьмин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Вера Тарасов",
+            "Кристина Павлов",
+            "Мариам Герасимов",
+            "Даниил Исаев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Владимир Родионов",
+            "Игорь Яковлев",
+            "Андрей Федотов",
+            "Дмитрий Яковлев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Тимофей Филатов",
+            "Ярослава Комаров",
+            "Олеся Попов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Пётр Медведев",
+            "Виктор Жуков",
+            "Александр Власов",
+            "Ульяна Осипов",
+            "Юлия Лазарев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Василиса Семёнов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Анжелика Сергеев",
+            "Евгения Федоров",
+            "Лука Мельников"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерия Макаров"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Попов",
+            "Сергей Максимов",
+            "Варвара Осипов",
+            "Никита Максимов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктор Новиков",
+            "Матвей Александров",
+            "Варвара Кузьмин",
+            "Елизавета Афанасьев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ясмина Климов",
+            "Ярослав Федоров",
+            "Никита Ковалёв"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Татьяна Баранов",
+            "София Богданов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Роман Яковлев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кристина Голубев",
+            "Артём Поляков"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерий Петров",
+            "Лука Матвеев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Арсений Королёв",
+            "Кирилл Сергеев",
+            "Валерия Дмитриев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Марк Белов",
+            "Ника Медведев",
+            "Ника Михайлов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерия Егоров",
+            "Анжелика Воробьёв",
+            "Платон Баранов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Кира Гаврилов",
+            "Агния Лазарев",
+            "Ярослава Козлов",
+            "Юлия Захаров"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алия Степанов",
+            "Лилия Кузнецов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Николай Куликов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юрий Васильев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Татьяна Максимов",
+            "Адам Филатов",
+            "Егор Куликов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Лука Медведев"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Злата Филиппов",
+            "Вероника Данилов",
+            "Андрей Кузнецов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Кристина Данилов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кирилл Николаев",
+            "Мирослав Исаев",
+            "Татьяна Новиков",
+            "Софья Гаврилов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Семён Миронов",
+            "Эмир Орлов",
+            "Виктория Морозов",
+            "Анна Мельников"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Евгения Гусев",
+            "Семён Афанасьев",
+            "Кира Николаев",
+            "Маргарита Белов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Мартынов",
+            "Аделина Воробьёв"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Лука Михайлов"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Максим Карпов",
+            "Виктория Титов",
+            "Платон Исаев",
+            "Алина Калинин"
+        ],
+        "Enterance": 1
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Владимир Иванов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лидия Ильин"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кристина Кудрявцев",
+            "Арсений Сергеев",
+            "Полина Федотов",
+            "София Куликов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Никита Смирнов",
+            "Лев Смирнов",
+            "Давид Ильин",
+            "Анна Филиппов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Николай Петров",
+            "Злата Власов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юлия Климов",
+            "Мария Федоров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Марк Климов",
+            "Асия Филиппов",
+            "Михаил Карпов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Кирилл Семёнов",
+            "Семён Титов",
+            "Арсен Ковалёв",
+            "Кира Михайлов",
+            "Виктория Александров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Вячеслав Пономарёв",
+            "Илья Максимов",
+            "Злата Калинин"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Всеволод Ковалёв",
+            "Семён Филиппов",
+            "Василиса Марков",
+            "Евдокия Миронов",
+            "Кирилл Денисов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Евдокия Зайцев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ольга Филатов",
+            "Татьяна Захаров",
+            "Сергей Соколов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александр Титов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ника Иванов",
+            "Матвей Федотов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Юлия Соловьёв",
+            "Полина Чернов",
+            "Кристина Исаев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Глеб Марков",
+            "Илья Киселёв",
+            "Валерий Назаров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Даниил Лазарев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Максим Матвеев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Макар Лазарев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Данил Куликов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Лидия Чернышев",
+            "Виктор Тихонов",
+            "Варвара Крылов",
+            "Валерий Афанасьев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Артём Федотов",
+            "Всеволод Климов",
+            "Лея Климов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Елизавета Васильев",
+            "Олеся Марков"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Ярослава Гаврилов",
+            "Ульяна Казаков"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Арсен Попов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Нелли Коновалов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "София Абрамов",
+            "Глеб Быков",
+            "Лидия Тихонов",
+            "Кира Николаев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Екатерина Медведев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Таисия Титов",
+            "Александра Сергеев",
+            "Лука Гаврилов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Валерия Смирнов",
+            "Григорий Иванов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Роман Коновалов",
+            "Фёдор Тимофеев",
+            "Артём Куликов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Сергей Кудрявцев",
+            "Глеб Тарасов",
+            "Кристина Соловьёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Илья Исаев",
+            "Пётр Исаев",
+            "Вячеслав Маслов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ясмина Гаврилов",
+            "Андрей Комаров",
+            "Александр Чернов",
+            "Алия Мельников"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Даниил Ефимов",
+            "Ульяна Гаврилов",
+            "Денис Власов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Савелий Фомин",
+            "Лея Соловьёв",
+            "Арсен Тимофеев",
+            "Мария Казаков",
+            "Евгения Осипов",
+            "Илья Пономарёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Артём Лазарев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Платон Максимов",
+            "Арсений Новиков",
+            "Асия Макаров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Асия Голубев",
+            "Денис Васильев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Павел Петров",
+            "Ольга Королёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Алина Козлов",
+            "Софья Куликов",
+            "Татьяна Андреев",
+            "Иван Сорокин"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктория Петров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Глеб Семёнов",
+            "Григорий Казаков"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Александра Кудрявцев",
+            "Мария Данилов",
+            "Юрий Ковалёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Варвара Климов",
+            "Марк Голубев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Георгий Крылов",
+            "Адам Афанасьев",
+            "Ева Исаев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Милана Щербаков",
+            "Малика Родионов",
+            "Егор Денисов",
+            "Анна Воронин"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Анжелика Васильев",
+            "Варвара Денисов",
+            "Ксения Богданов",
+            "Анастасия Ковалёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Афанасьев",
+            "Екатерина Ефимов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Мариам Щербаков",
+            "Мирослав Жуков",
+            "Нелли Лебедев",
+            "Егор Фомин",
+            "Марк Казаков",
+            "Софья Петров"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алина Карпов",
+            "Полина Богданов",
+            "Роман Павлов",
+            "Дмитрий Сорокин",
+            "Вероника Медведев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Владимир Быков",
+            "Руслан Фролов",
+            "Алиса Денисов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Варвара Максимов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Аделина Голубев",
+            "Арсен Мартынов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Артём Федотов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктория Пономарёв"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Георгий Назаров",
+            "Евгения Яковлев",
+            "Мариам Щербаков",
+            "Вероника Казаков"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лилия Александров",
+            "Василиса Марков",
+            "Ярослава Савельев",
+            "Ярослава Исаев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кира Степанов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Савелий Фомин",
+            "Денис Лебедев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Анна Поляков",
+            "Николай Федотов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Милана Крылов"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Михаил Лебедев"
+        ],
+        "Enterance": 2
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Лилия Орлов",
+            "Малика Степанов",
+            "Адам Ковалёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Полина Голубев",
+            "Эмилия Киселёв",
+            "Матвей Лазарев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кристина Фомин"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Анна Семёнов",
+            "Татьяна Прохоров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Данил Денисов",
+            "Екатерина Баранов",
+            "Юрий Савельев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Эмилия Лазарев",
+            "Мария Калинин",
+            "Александр Федоров",
+            "Малика Чернов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Нелли Морозов",
+            "Данил Новиков",
+            "Марк Николаев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Иван Коновалов",
+            "Адам Кузьмин",
+            "Евгения Богданов",
+            "Алия Григорьев",
+            "Лидия Давыдов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Асия Никитин",
+            "Юлия Фролов",
+            "Стефания Исаев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Григорий Абрамов",
+            "Маргарита Поляков",
+            "Григорий Сорокин",
+            "Ярослава Максимов",
+            "Василиса Исаев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Пётр Васильев",
+            "Андрей Маслов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александра Егоров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Игорь Федоров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юрий Жуков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Руслан Коновалов",
+            "Нелли Герасимов",
+            "Вероника Дмитриев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Данил Воробьёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алиса Афанасьев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александр Тарасов",
+            "Эмир Виноградов",
+            "Михаил Карпов",
+            "Маргарита Быков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Эмилия Романов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ксения Ковалёв",
+            "Леонид Филиппов",
+            "Татьяна Морозов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Павел Герасимов",
+            "Ксения Смирнов",
+            "Ярослав Петров",
+            "Анна Виноградов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Вероника Тихонов",
+            "Варвара Волков",
+            "Руслан Филиппов",
+            "Кристина Федоров",
+            "Мариам Павлов",
+            "Даниил Андреев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Малика Казаков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Глеб Федотов",
+            "Анна Гусев",
+            "Игорь Королёв",
+            "Владимир Тарасов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Мирон Яковлев",
+            "Арсен Михайлов",
+            "Милана Климов",
+            "Василиса Марков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Новиков",
+            "София Волков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Виноградов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Глеб Миронов",
+            "Виктория Филиппов",
+            "Кирилл Ильин"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Георгий Поляков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Павел Кузнецов",
+            "Елизавета Васильев",
+            "Полина Афанасьев",
+            "Алиса Казаков",
+            "Нелли Сергеев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лидия Тарасов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ярослава Соколов",
+            "Давид Морозов",
+            "Демьян Яковлев",
+            "Маргарита Казаков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ксения Назаров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Евдокия Воробьёв",
+            "Максим Тарасов",
+            "Артём Сидоров",
+            "Ника Воронин"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Асия Воронин",
+            "Адам Тарасов",
+            "Михаил Филиппов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Маргарита Захаров",
+            "Мирослав Морозов",
+            "Александра Климов",
+            "Анжелика Николаев",
+            "Ксения Чернышев",
+            "Ясмина Киселёв",
+            "Никита Соловьёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лилия Прохоров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Адам Александров",
+            "Ульяна Матвеев",
+            "Вера Кузнецов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юлия Родионов",
+            "Евгения Максимов",
+            "Платон Романов",
+            "Елизавета Абрамов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Елизавета Федотов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Павел Антонов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александра Мартынов",
+            "Стефания Семёнов",
+            "Дмитрий Воробьёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Аделина Сидоров",
+            "Руслан Иванов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алия Карпов",
+            "Тимофей Григорьев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Михаил Орлов",
+            "Глеб Денисов",
+            "Дарья Филиппов",
+            "Глеб Коновалов",
+            "Пётр Карпов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Игорь Абрамов",
+            "Андрей Беляев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Евгения Виноградов",
+            "Алиса Марков"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "София Воронин",
+            "Милана Абрамов",
+            "Ярослав Комаров",
+            "Адам Попов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Эмир Филатов",
+            "Макар Карпов",
+            "Арсений Захаров",
+            "Михаил Чернов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Даниил Алексеев",
+            "Илья Родионов",
+            "Дарья Тихонов",
+            "Демид Климов",
+            "Пётр Титов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кирилл Антонов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Павел Сидоров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Леонид Мельников",
+            "Савелий Мартынов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Софья Филатов",
+            "Малика Воронин",
+            "Таисия Мартынов",
+            "Пётр Мельников"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Мирон Осипов",
+            "София Зайцев",
+            "Ульяна Данилов",
+            "Александр Смирнов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Марк Киселёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Нелли Комаров",
+            "Алиса Щербаков",
+            "Вероника Федоров",
+            "Дарья Тимофеев",
+            "Фёдор Степанов",
+            "Егор Ильин",
+            "Демьян Кудрявцев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лев Александров",
+            "Платон Назаров"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Андрей Куликов",
+            "Артём Гусев",
+            "Ксения Исаев",
+            "Мирослав Мельников",
+            "Мариам Пономарёв"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Мельников",
+            "Платон Иванов",
+            "Максим Кузьмин"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Кристина Алексеев",
+            "Николай Гусев",
+            "Эмилия Михайлов"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Мариам Григорьев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Маргарита Николаев"
+        ],
+        "Enterance": 3
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Ясмина Кудрявцев",
+            "Тимофей Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Милана Козлов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алия Яковлев",
+            "Кристина Богданов",
+            "Сергей Медведев",
+            "Эмилия Баранов",
+            "Руслан Филиппов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Руслан Миронов",
+            "Роман Орлов",
+            "Эмилия Попов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Варвара Герасимов",
+            "Александр Степанов",
+            "Глеб Дмитриев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктория Савельев",
+            "Тимофей Гусев",
+            "Даниил Федоров",
+            "Демид Гусев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Эмир Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Мариам Фомин",
+            "Алия Чернышев",
+            "Павел Комаров",
+            "Злата Воробьёв",
+            "Вера Андреев",
+            "Лука Иванов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Савелий Родионов",
+            "Платон Яковлев",
+            "Малика Мартынов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Руслан Чернышев",
+            "Юрий Фомин",
+            "Агния Абрамов",
+            "Агния Маслов",
+            "Лев Федотов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерия Сорокин",
+            "Лука Осипов",
+            "Софья Захаров",
+            "Даниил Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Асия Казаков",
+            "Мирон Гаврилов",
+            "Матвей Быков"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Максим Мартынов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Полина Соколов",
+            "Иван Петров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Маргарита Чернышев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Валерий Воробьёв",
+            "Алиса Макаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Полина Быков"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Андреев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Екатерина Прохоров",
+            "Михаил Морозов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Татьяна Киселёв",
+            "Валерий Филатов",
+            "Мария Семёнов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Денис Казаков",
+            "Арсений Быков",
+            "Леонид Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Михаил Маслов",
+            "Руслан Сорокин",
+            "Эмир Жуков",
+            "Андрей Климов",
+            "Мариам Ковалёв"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алия Филатов",
+            "Ясмина Савельев",
+            "Демьян Комаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Софья Андреев",
+            "Юрий Степанов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Вероника Родионов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Всеволод Савельев",
+            "Эмилия Комаров",
+            "Олеся Петров",
+            "Евдокия Богданов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Маргарита Федотов",
+            "Лука Назаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктория Казаков",
+            "Юлия Щербаков",
+            "Полина Комаров",
+            "Роман Калинин"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Алина Виноградов",
+            "Егор Денисов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Николай Мельников",
+            "Анна Борисов",
+            "Демид Антонов",
+            "Семён Тимофеев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Егор Абрамов",
+            "Егор Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Алия Королёв",
+            "Максим Королёв"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Агния Никитин",
+            "Нелли Филатов",
+            "Артём Тимофеев",
+            "Асия Ковалёв"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Михаил Жуков",
+            "Нелли Филиппов",
+            "Екатерина Соколов",
+            "Лея Матвеев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юрий Киселёв",
+            "Артём Карпов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Тимофей Тимофеев",
+            "Георгий Жуков",
+            "Анжелика Родионов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Даниил Волков"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Сергей Сергеев",
+            "Платон Пономарёв"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Стефания Баранов",
+            "Ярослав Чернышев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Дарья Климов",
+            "Ярослава Фролов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Агния Петров",
+            "Алина Пономарёв",
+            "Эмилия Савельев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ульяна Крылов",
+            "Никита Виноградов",
+            "Асия Волков",
+            "Дарья Белов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Аделина Соколов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Всеволод Щербаков",
+            "Андрей Савельев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Ксения Поляков",
+            "Сергей Жуков",
+            "Сергей Федоров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерий Кузьмин",
+            "Мариам Борисов",
+            "Валерий Гусев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Леонид Куликов",
+            "Всеволод Щербаков"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ясмина Козлов",
+            "Платон Комаров",
+            "Михаил Федоров",
+            "Виктория Соловьёв"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Леонид Степанов",
+            "Фёдор Новиков",
+            "Валерий Власов",
+            "Савелий Тихонов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Валерий Воронин",
+            "Лея Ефимов",
+            "Кирилл Голубев",
+            "Тимофей Захаров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Анна Фомин"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Стефания Карпов",
+            "Михаил Волков",
+            "Леонид Сергеев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Елизавета Тимофеев",
+            "Денис Борисов",
+            "Вера Попов",
+            "Софья Федоров"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Макар Быков",
+            "Ярослав Киселёв",
+            "Юлия Андреев",
+            "Асия Герасимов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Георгий Соколов",
+            "Стефания Данилов",
+            "Агния Тихонов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Мариам Герасимов",
+            "Всеволод Павлов",
+            "Евдокия Мартынов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Арсений Филатов",
+            "Полина Новиков",
+            "Ярослав Марков"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Адам Филиппов",
+            "Адам Белов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лея Чернышев",
+            "Арсений Ильин"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Всеволод Гусев",
+            "Егор Сидоров",
+            "Леонид Лазарев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Софья Назаров",
+            "Лев Антонов",
+            "Аделина Федотов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Даниил Воробьёв",
+            "Валерий Сорокин",
+            "Татьяна Федоров",
+            "Григорий Борисов"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Денис Орлов",
+            "Варвара Попов",
+            "Мирослав Осипов",
+            "Нелли Алексеев"
+        ],
+        "Enterance": 4
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Никита Куликов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Лея Яковлев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Сергей Чернышев",
+            "Кристина Сидоров"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Михайлов",
+            "Дарья Фомин",
+            "Кристина Фомин",
+            "Кристина Смирнов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юрий Богданов",
+            "Валерий Прохоров",
+            "Валерия Мельников",
+            "Пётр Казаков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Валерий Воронин",
+            "Анастасия Виноградов",
+            "Георгий Герасимов",
+            "Даниил Дмитриев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 1,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Григорий Богданов",
+            "Владимир Кузьмин",
+            "Нелли Макаров",
+            "Юлия Сергеев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Андрей Филиппов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Данил Максимов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Аделина Павлов",
+            "Демид Ефимов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Виктор Андреев",
+            "Лидия Прохоров",
+            "Павел Баранов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Фёдор Миронов",
+            "Виктор Виноградов",
+            "Таисия Романов",
+            "Полина Калинин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Иван Зайцев",
+            "Савелий Быков",
+            "Матвей Федоров"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 2,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Елизавета Алексеев",
+            "Юрий Попов",
+            "Глеб Киселёв",
+            "Стефания Яковлев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Пётр Морозов",
+            "Олеся Кузнецов",
+            "Ярослав Чернышев",
+            "Ольга Калинин",
+            "Лука Михайлов",
+            "Андрей Козлов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Милана Голубев",
+            "Тимофей Чернов",
+            "Дарья Абрамов",
+            "Екатерина Гаврилов",
+            "Максим Белов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Вероника Егоров",
+            "Павел Филатов",
+            "Марк Мельников",
+            "Фёдор Титов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Александр Исаев",
+            "Екатерина Соколов",
+            "Алия Филиппов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Маргарита Алексеев",
+            "Георгий Лебедев",
+            "Олеся Киселёв"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Егор Мельников",
+            "Василиса Денисов",
+            "Лея Семёнов",
+            "Полина Белов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 3,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ксения Пономарёв"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Артём Новиков",
+            "Михаил Ефимов",
+            "Савелий Пономарёв",
+            "Злата Соловьёв",
+            "Аделина Голубев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Юрий Ильин",
+            "Асия Егоров",
+            "Маргарита Морозов",
+            "Пётр Гаврилов",
+            "Матвей Тимофеев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Данил Максимов",
+            "Дмитрий Кудрявцев",
+            "Кира Гусев",
+            "Леонид Сергеев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ясмина Степанов",
+            "Егор Федоров",
+            "Матвей Воробьёв"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Роман Смирнов",
+            "Роман Орлов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Татьяна Максимов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 4,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Аделина Куликов",
+            "Валерий Поляков",
+            "Руслан Фомин",
+            "Виктор Марков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Давид Матвеев",
+            "Эмилия Гаврилов",
+            "Демьян Карпов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Стефания Тихонов",
+            "Матвей Филатов",
+            "Артём Мельников",
+            "Асия Кузнецов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Малика Родионов",
+            "Андрей Савельев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Егор Дмитриев",
+            "Ксения Воронин",
+            "Асия Сидоров"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юлия Максимов",
+            "Алиса Осипов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Юрий Орлов",
+            "Всеволод Савельев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 5,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ульяна Казаков",
+            "Виктор Кузьмин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Пётр Давыдов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Алия Алексеев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Мирон Филатов",
+            "Георгий Чернышев",
+            "Стефания Мельников",
+            "Марк Жуков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Лидия Абрамов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Фомин",
+            "Валерий Павлов",
+            "Тимофей Мартынов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ярослава Осипов",
+            "Платон Александров",
+            "Ксения Федоров",
+            "Василиса Беляев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 6,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Таисия Федоров"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Кира Казаков",
+            "Олеся Гусев",
+            "Юлия Назаров",
+            "Лилия Егоров",
+            "Андрей Гаврилов",
+            "Ольга Борисов",
+            "Лея Лебедев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Ярослава Чернышев",
+            "Анна Матвеев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Данил Фомин",
+            "Фёдор Голубев",
+            "Виктор Степанов",
+            "Ясмина Воронин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Никита Поляков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Анна Павлов",
+            "Ева Быков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Маргарита Фролов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 7,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Кирилл Романов",
+            "Всеволод Григорьев",
+            "Макар Кузьмин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Мариам Федотов",
+            "Софья Воробьёв",
+            "Маргарита Сергеев",
+            "Арсений Марков"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Кирилл Морозов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Арсен Андреев",
+            "Милана Миронов",
+            "Артём Семёнов",
+            "Арсений Егоров",
+            "Андрей Смирнов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Матвей Орлов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Руслан Гаврилов",
+            "Никита Киселёв"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ксения Волков",
+            "Пётр Мартынов",
+            "Николай Максимов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 8,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Данил Филатов",
+            "Александра Филиппов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 5,
+        "Residents": [
+            "Арсений Лебедев",
+            "Ульяна Николаев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Ольга Сорокин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 3,
+        "Residents": [
+            "Елизавета Власов",
+            "Мария Семёнов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Ева Соловьёв",
+            "Андрей Королёв",
+            "Даниил Николаев"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Павел Коновалов"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Маргарита Кузьмин"
+        ],
+        "Enterance": 5
+    },
+    {
+        "Floor": 9,
+        "NumberOfRooms": 2,
+        "Residents": [
+            "Алия Кузнецов",
+            "Эмилия Мельников",
+            "Дмитрий Петров"
+        ],
+        "Enterance": 5
+    }
+]
